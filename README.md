@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bartek!</h1>
-<h3 align="center">IT enthusiast from Poland to become a frontend developer.</h3>
+<h1 align="center">Hi 👋!</h1>
+<h3 align="center">I turn coffee and cookies into crisp and elegant code.
+I experiment and I make the world awesome.</h3>
 
 
 
